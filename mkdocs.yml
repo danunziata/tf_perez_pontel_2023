@@ -1,7 +1,7 @@
 # Metadata
-site_name: Aplicaciones TCP/IP | template
+site_name: Aplicaciones TCP/IP 
 site_description: Proyecto final de la materia 'Aplicaciones TCP/IP' de la carrera de Ingeniería de Telecomunicaciones.
-site_author: anonimo
+site_author: Perez - Pontel 
 
 # Github
 repo_url: https://github.com/danunziata/tf_perez_pontel_2023
@@ -85,3 +85,4 @@ markdown_extensions:
 # Copyright footer
 copyright: |
   &copy; 2023 <a href="https://www.ing.unrc.edu.ar/inicio.php"  target="_blank" rel="noopener">Universidad Nacional de Río cuarto | Facultad de Ingeniería</a>
+
