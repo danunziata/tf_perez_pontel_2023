@@ -4,8 +4,8 @@ site_description: Proyecto final de la materia 'Aplicaciones TCP/IP' de la carre
 site_author: anonimo
 
 # Github
-repo_url: https://github.com/danunziata/...
-repo_name: danunziata/...
+repo_url: https://github.com/danunziata/tf_perez_pontel_2023
+repo_name: danunziata/tf_perez_pontel_2023
 
 # Design
 theme:
@@ -57,7 +57,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/danunziata/...
+      link: https://github.com/danunziata/tf_perez_pontel_2023
       name: Repo URL
 
 
