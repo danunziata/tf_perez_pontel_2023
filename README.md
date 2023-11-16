@@ -147,7 +147,7 @@ Describir uso del repositorio para hacer funcionar el repositorio de su desarrol
 ## Roadmap
 
 * [ ] Completar la propuesta
-* [ ] Completar documetno de diseño
+* [ ] Completar documetno de diseño docs/SRS__TEMPLATE__rev_01.docx
 * [ ] desarrollo del trabajo
 * [ ] Redacción final de documentación e informe
 
