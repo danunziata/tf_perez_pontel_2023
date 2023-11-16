@@ -55,7 +55,7 @@ La estructura del repositorio se muestra a continuación
 │   └── README.md
 ├── docs
 │   ├── 0-propuesta.md
-│   ├── 1-index.md
+│   ├── 1-portada.md
 │   ├── 2-resumen.md
 │   ├── 3-introduccion.md
 │   ├── 4-desarrollo.md
