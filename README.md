@@ -54,8 +54,7 @@ La estructura del repositorio se muestra a continuación
 ├── code
 │   └── README.md
 ├── docs
-│   ├── 0-propuesta.md
-│   ├── 1-portada.md
+│   ├── 1-propuesta.md
 │   ├── 2-resumen.md
 │   ├── 3-introduccion.md
 │   ├── 4-desarrollo.md
@@ -66,6 +65,8 @@ La estructura del repositorio se muestra a continuación
 ├── images/
 │   ├── imagen1.png
 │   └── imagen2.png
+│   ├── index.md
+│   └── SRS__TEMPLATE__rev_01.docx
 ├── LICENSE
 ├── mkdocs.yml
 ├── README.md
