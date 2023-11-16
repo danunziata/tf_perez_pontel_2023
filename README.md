@@ -281,7 +281,8 @@ El aviso de copyright para este proyecto se encuentra detallado en el archivo [L
 
 <!-- ACKNOWLEDGMENTS -->
 ## Referencias
-
+[Mkdocs](https://www.mkdocs.org/user-guide/configuration/)
+[Mkdocs Material](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 [Back to Top](#top)
 
