@@ -3,13 +3,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/danunziata/.../tree/main">
+  <a href="https://github.com/danunziata/tf_perez_pontel_2023/tree/main">
   </a>
 
   <h3 align="center">Trabajo Final - Aplicaciones TCP IP</h3>
 
   <p align="center">
-   <a href="https://danunziata.github.io/.../"><strong>Mirá la documentación acá »</strong> </a>
+   <a href="https://github.com/danunziata/tf_perez_pontel_2023"><strong>Mirá la documentación acá »</strong> </a>
   </p>
 </div>
 
