@@ -7,7 +7,7 @@
 - Daniela Pontel
 - M. Sol Perez
 
-## [Iluminacion inteligente en Universidades]
+## [ Iluminacion inteligente en Universidades ]
 
 ### Resumen:
 La propuesta tiene como objetivo optimizar la gestión de consumo energético dentro de las aulas pertenecientes a una Universidad  y/o escuelas. Esto  mediante la implementación de un sistema de gestión de control de iluminación inteligente que se tiene como premisa realizar el control del nivel de luz solar que ingresa al aula y si hay personas en la misma o no, para con esa información tomar medidas del nivel de luz artificial que debe haber dentro del espacio. Esto se busca hacer en  tiempo real para mejorar la eficiencia energética de la institución.
